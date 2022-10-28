@@ -20,7 +20,7 @@ int maxSubArraySum(int a[], int size)
 // Driver Code
 int main()
 {
-	int a[] = { -2, -3, 4, -1, -2, 1, 5, -3 };
+	int a[] = { -2, -3, 4, -1, -3,1,5};
 	int n = sizeof(a) / sizeof(a[0]);
 
 	// Function Call
